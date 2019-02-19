@@ -7,13 +7,13 @@
     <groupId>com.course.code</groupId>
     <artifactId>Chapter5</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <dependencies>
+    <!--dependencies>
        <dependency>
         <groupId>org.testng</groupId>
         <artifactId>testng</artifactId>
         <version>6.10</version>
        </dependency>
-    </dependencies>
+    </dependencies-->
 
 
 </project>

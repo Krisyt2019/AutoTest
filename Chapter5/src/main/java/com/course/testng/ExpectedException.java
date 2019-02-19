@@ -12,6 +12,7 @@ public class ExpectedException {
 
     @Test(expectedExceptions = RuntimeException.class)
     public void runTimeExcetionFailed(){
+
         System.out.println("这是一个运行失败的异常测试");
     }
 
